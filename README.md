@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Password Generator ("the App") is an Android application developed to generate secure passwords for users. Your privacy is very important to us, and this Privacy Policy explains how the App handles user data.
+Password Generator is an Android application developed to generate secure passwords for users. Your privacy is very important to us, and this Privacy Policy explains how the App handles user data.
 
 By using this App, you agree to the terms outlined in this Privacy Policy.
 
